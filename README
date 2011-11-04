@@ -1,0 +1,12 @@
+Module for OpenCart.
+
+
+Will require:
+
+catalog/language/shipping
+catalog/model/shipping
+catalog/view/.../template/shipping
+
+admin/controller/shipping
+admin/language/shipping
+admin/view/template/shipping
